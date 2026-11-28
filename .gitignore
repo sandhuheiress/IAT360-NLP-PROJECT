@@ -1,0 +1,6 @@
+# test documents: some are copyrighted, keep them local
+data/*.pdf
+
+.ipynb_checkpoints/
+.DS_Store
+__pycache__/
